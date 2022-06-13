@@ -26,16 +26,20 @@ Thus, this tool is only useful if you'd like **your** rotation for a **single** 
 
 ### Online
 
-1. Go to your opsgenie schedule page and click on the `Copy calendar link to clipboard` button
+1. Go to your opsgenie schedule page and click on the `Open calendar` button
 
-   ![Screenshot of opegenie schedule page](assets/screenshot-opsgenie-link.png)
+   ![Screenshot of opegenie schedule page](assets/screenshot-opsgenie-first-step.png)
 
-2. Go to [opsgenie-filtered-schedule-ics website](https://opsgenie-filtered-schedule-ics.aerion.workers.dev/)
-3. Paste the opsgenie link from your clipboard and hit `Generate ICS link`
+2. Discard the pop-up, and now a new button appeared: click on the `Copy calendar link to clipboard` button
+
+   ![Screenshot of opegenie schedule page](assets/screenshot-opsgenie-second-step.png)
+
+3. Go to [https://opsgenie-filtered-schedule-ics.aerion.workers.dev/](https://opsgenie-filtered-schedule-ics.aerion.workers.dev/)
+4. Paste the opsgenie link from your clipboard and hit `Generate ICS link`
 
    ![Screenshot of opsgenie filtered schedule homepage](assets/screenshot-homepage.png)
 
-4. Copy and import the resulting `/ics` link given into your calendar, you can see a preview of the generated ics calendar
+5. Copy and import the resulting `/ics` link given into your calendar, you can see a preview of the generated ics calendar
 
    ![Screenshot of opsgenie filtered schedule with results](assets/screenshot-results.png)
 
